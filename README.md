@@ -1,5 +1,7 @@
 # Daily Background Generator
 
+> Daily background generator: Créez des wallpapers uniques pour chaque jour de la semaine.
+
 Ce projet développe un programme qui génère automatiquement un nouveau fond d'écran artistique unique pour chaque jour de la semaine. En utilisant l'API Stable Diffusion, il crée des images personnalisées inspirées par des styles de grands maîtres tels que Van Gogh, Monet, ou Picasso, combinés à des sujets variés allant de paysages vibrants à des compositions abstraites. Ces créations sont ensuite appliquées dynamiquement comme fond d'écran du PC, offrant une expérience visuelle qui mêle art classique et technologie moderne, renouvelée quotidiennement.
 
 [![Demo](https://img.youtube.com/vi/cS7cVoVBsfc/0.jpg)](https://youtu.be/cS7cVoVBsfc "Demo Video")
