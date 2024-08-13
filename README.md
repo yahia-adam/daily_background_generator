@@ -1,6 +1,8 @@
 # Daily Background Generator
 
-Ce projet vise à créer un programme capable de générer une image à l'aide de l'API Stable Diffusion et d'utiliser cette image pour changer dynamiquement le fond d'écran du PC.
+Ce projet développe un programme qui génère automatiquement un nouveau fond d'écran artistique unique pour chaque jour de la semaine. En utilisant l'API Stable Diffusion, il crée des images personnalisées inspirées par des styles de grands maîtres tels que Van Gogh, Monet, ou Picasso, combinés à des sujets variés allant de paysages vibrants à des compositions abstraites. Ces créations sont ensuite appliquées dynamiquement comme fond d'écran du PC, offrant une expérience visuelle qui mêle art classique et technologie moderne, renouvelée quotidiennement.
+
+[![Demo](https://img.youtube.com/vi/cS7cVoVBsfc/0.jpg)](https://youtu.be/cS7cVoVBsfc "Demo Video")
 
 ## Prérequis
 
@@ -94,3 +96,9 @@ Les contributions à ce projet sont les bienvenues. N'hésitez pas à ouvrir une
 ## Auteur
 
 YAHIA ABDCHAFEE Adam
+
+
+![day1](https://raw.githubusercontent.com/yahia-adam/daily_background_generator/main/images/1.webp)
+![day3](https://raw.githubusercontent.com/yahia-adam/daily_background_generator/main/images/3.webp)
+
+Daily background generator: Create unique wallpapers for each day of the week.
