@@ -49,9 +49,6 @@ def generate_image(prompt):
     image = pipe(
         prompt,
         negative_prompt="",
-        seed=0,
-		width=1024,
-		height=1024,
         num_inference_steps=28,
         guidance_scale=7.0,
     ).images[0]
